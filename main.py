@@ -99,3 +99,4 @@ def create_project_structure():
 
 if __name__ == "__main__":
     create_project_structure()
+Add setup_structure.py to auto-generate project folders
